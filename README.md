@@ -1,2 +1,2 @@
-# repository
+# york
 pyramid project
